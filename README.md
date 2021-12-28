@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahana19,a First Year Undergrad student of Computer Science.
 - 👀 I’m interested in AI and ML domains and looking to contribute to some OS Projects.
-- 🌱 I’m currently learning C/C++,Python and would like to learn Javascript,CSS for Web Development.
+- 🌱 I’m currently learning C/C++,Python and considering  to learn Javascript,CSS for Web Development.
 - 💞️ I’m looking to collaborate on some AI based OS projects.
 - 📫 How to reach me.My email id- ahanabasu986@gmail.com 
 
