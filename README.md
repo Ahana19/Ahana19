@@ -10,6 +10,6 @@ Ahana19/Ahana19 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 Tech Stacks
-![test image size]<img src="https://pngimage.net/wp-content/uploads/2018/06/letter-c-logo-png-1.png" width="400" height="790">
+![test image size]<img src="https://pngimage.net/wp-content/uploads/2018/06/letter-c-logo-png-1.png" width="1600" height="1600">
 
 
