@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and ML domains and looking to contribute to some OS Projects.
 - 🌱 I’m currently learning C/C++,Python and considering  to learn Javascript,CSS for Web Development.
 - 💞️ I’m looking to collaborate on some AI based OS projects.
-- 📫 How to reach me.My email id- ahanabasu986@gmail.com 
+- 📫 How to reach me - ahanabasu986@gmail.com 
 -
 Other interests-I like anime,Harry Potter and painting to some extent.
 <!---
