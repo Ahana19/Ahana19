@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 Tech Stacks
 <img src="https://pngimage.net/wp-content/uploads/2018/06/letter-c-logo-png-1.png" width="50" height="50">
-<img src="https://pngimage.net/wp-content/uploads/2018/06/letter-c-logo-png-1.png" width="50" height="50">
+<img src="https://www.nicepng.com/maxp/u2q8u2a9w7i1t4i1/" width="50" height="50">
 
 
