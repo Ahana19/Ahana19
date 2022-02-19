@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C/C++,Python and working on Front-End Web Dev.
 - 💞️ I’m looking to collaborate on some <b>AI based OS projects</b>.
 -<h2>How to reach me</h2> - ahanabasu986@gmail.com 
-- <h4>Other interests</h4>-I like anime,Harry Potter and painting to some extent.
+- <h4>Other interests</h4>-I like <b>anime</b>,<b>Harry Potter</b> and <b>painting</b> to some extent.
 <!---
 Ahana19/Ahana19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
