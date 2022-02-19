@@ -2,8 +2,8 @@
 - 👀 I’m interested in AI and ML domains and looking to contribute to some OS Projects.
 - 🌱 I’m currently learning C/C++,Python and working on Front-End Web Dev.
 - 💞️ I’m looking to collaborate on some AI based OS projects.
-- 📫 How to reach me - ahanabasu986@gmail.com 
-- Other interests-I like anime,Harry Potter and painting to some extent.
+- 📫 <h2>How to reach me</h2> - ahanabasu986@gmail.com 
+- <h2>Other interests</h2>-I like <h2>anime</h2>,<h2>Harry Potter</h2> and <h2>painting</h2> to some extent.
 <!---
 Ahana19/Ahana19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
