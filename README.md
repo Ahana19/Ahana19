@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahana,a First Year Undergrad student of Computer Science.
-- 👀 I’m interested in AI and ML domains and looking to contribute to some OS Projects.
+- 👀 I’m interested in <b>AI</b> and <b>ML</b> domains and looking to contribute to some <b>OS Projects</b>.
 - 🌱 I’m currently learning C/C++,Python and working on Front-End Web Dev.
-- 💞️ I’m looking to collaborate on some AI based OS projects.
+- 💞️ I’m looking to collaborate on some <b>AI based OS projects</b>.
 -<h2>How to reach me</h2> - ahanabasu986@gmail.com 
 - <h4>Other interests</h4>-I like anime,Harry Potter and painting to some extent.
 <!---
