@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahana,a First Year Undergrad student of Computer Science.
+- 👋 Hi, I’m Ahana,a Computer Science major in KIIT University,Bhubaneswar
 - 👀 I’m interested in <b>AI</b> and <b>ML</b> domains and looking to contribute to some <b>OS Projects</b>.
 - 🌱 I’m currently learning C++,Python,Java and working on Web Dev and Android Dev.
 - 💞️ I’m learning and exploring <b>Data Structures and Algorithm</b> and working on <b>Front-End Web Dev.</b>
