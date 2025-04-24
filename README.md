@@ -1,7 +1,7 @@
 ## About Me
 Hi there! I'm Ahana 👋  
 I'm a data analyst enthusiast who loves working on cool tech stuff!
-![GIF](https://www.pinterest.com/pin/845480530078999735/)
+![GIF](https://media.giphy.com/media/https://i.pinimg.com/originals/9d/3a/72/9d3a7264f922125cc6635ebd81306eb6.gif/giphy.gif)
 
 - 👋 Hi, I’m Ahana,a Computer Science major in KIIT University,Bhubaneswar
 - 👀 I’m interested in <b>AI</b> and <b>ML</b> domains and looking to contribute to some <b>OS Projects</b>.
