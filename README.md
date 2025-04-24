@@ -1,6 +1,6 @@
 ## About Me
 Hi there! I'm Ahana 👋  
-I'm a data analyst enthusiast who loves working on cool tech stuff!
+I'm an aspiring data analyst enthusiast who loves working on cool tech stuff!
 <p align="center">
 <img src="https://raw.githubusercontent.com/Ahana19/Ahana19/refs/heads/main/cat.gif" width="300">
 </p>
