@@ -1,27 +1,62 @@
-## About Me
-Hi there! I'm Ahana 👋  
-I'm an aspiring data analyst enthusiast who loves working on cool tech stuff!
+<h1 align="center">Hey there, I'm Ahana 👋</h1>
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ahana19/Ahana19/refs/heads/main/cat.gif" width="300">
+  <img src="https://raw.githubusercontent.com/Ahana19/Ahana19/refs/heads/main/cat.gif" width="300"/>
 </p>
 
-- 👋 Hi, I’m Ahana,a Computer Science major in KIIT University,Bhubaneswar
-- 👀 I’m interested in <b>AI</b> and <b>ML</b> domains and looking to contribute to some <b>OS Projects</b>.
-- 🌱 I’m currently learning C++,Python,Java and working on Web Dev and Android Dev.
-- 💞️ I’m learning and exploring <b>Data Structures and Algorithm</b> and working on <b>Front-End Web Dev.</b>
--<h2>How to reach me</h2> - ahanabasu986@gmail.com 
-- <h4>Other interests</h4>-I like <b>anime</b>,<b>Harry Potter</b> and <b>painting</b> to some extent.
-<!---
-Ahana19/Ahana19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h3 align="left">Tech Stacks</h3>
-<a href="https://www.w3schools.com/c/" target="_blank" rel="nonreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/python/" target="_blank" rel="nonreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/kotlin/" target="_blank" rel="nonreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://developer.android.com/courses/android-basics-kotlin/course" target="_blank" rel="nonreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://github.com/ahana-basu">
+    <img src="https://komarev.com/ghpvc/?username=ahana-basu&label=Profile%20Views&color=0e75b6&style=flat" alt="ahana-basu" />
+  </a>
+</p>
 
+---
+
+### 👩‍💻 About Me
+
+🎓 Final-year Computer Science student at KIIT  
+📊 Aspiring Data Analyst | Data Enthusiast  
+🧠 Passionate about Machine Learning & solving real-world problems  
+🚀 Creator of **Sereni** – A mental health chatbot for therapy and support  
+📌 Currently learning: SQL • DSA • System Design • Snowflake • Digital Products  
+🎯 Career Goal: To turn data into decisions that matter!
+
+---
+
+### ⚙️ Tech Stack & Tools
+
+```bash
+💻 Languages:    Python • SQL • C • HTML/CSS
+📊 Libraries:    Pandas • NumPy • Matplotlib • Scikit-learn
+🧠 ML Tools:     Jupyter • Flask • Mistral
+🛠 Platforms:    GitHub • Google Colab • Canva
+🌐 Web:          HTML • CSS • Bootstrap • Flask
+
+### 📊 GitHub Stats
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ahana-basu&show_icons=true&theme=radical&hide_border=true" width="400"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahana-basu&layout=compact&theme=radical&hide_border=true" width="350"/> 
+</p>
+
+---
+
+### 🧩 Fun & Extra
+
+🧪 Always experimenting with data projects  
+🧠 Built ML tools that think like humans  
+✨ Loves designing clean & aesthetic interfaces  
+👩‍🏫 Teaching myself while building  
+
+---
+
+### 📫 Connect With M
+
+<p align="center"> 
+  <a href="mailto:ahanabasu986@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> 
+  <a href="https://www.linkedin.com/in/ahana-basu-8804a2221/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
+</p>
