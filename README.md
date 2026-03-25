@@ -14,12 +14,12 @@
 
 ### 👩‍💻 About Me
 
-🎓 Final-year Computer Science student at KIIT  
-📊 Aspiring Data Analyst | Data Enthusiast  
-🧠 Passionate about Machine Learning & solving real-world problems  
+🎓 Software Engineer at Capgemini  
+📊 Aspiring AI Engineer | Data Enthusiast  
+🧠 Passionate about Machine Learning, Agentic AI, Gen AI & solving real-world problems  
 🚀 Creator of **Sereni** – A mental health chatbot for therapy and support  
-📌 Currently learning: SQL • DSA • System Design • Snowflake • Digital Products  
-🎯 Career Goal: To turn data into decisions that matter!
+📌 Currently learning: Databricks • DSA • System Design • Snowflake • Digital Products  
+🎯 Career Goal: To automate everything around me!!!!
 
 ---
 
